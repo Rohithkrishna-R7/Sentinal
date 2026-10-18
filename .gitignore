@@ -1,0 +1,17 @@
+# Compiled output
+out/
+
+# CSV log (generated at runtime; include data/ dir but not the file)
+data/events.csv
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.idea/
+.vscode/
+*.iml
+
+# Scratch / temp test files
+scratch/
